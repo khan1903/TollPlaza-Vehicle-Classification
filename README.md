@@ -16,6 +16,6 @@ This project is designed to classify vehicles (e.g., cars, trucks, trailers) pas
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/TollPlaza-Vehicle-Classification.git
+git clone https://github.com/khan1903/TollPlaza-Vehicle-Classification.git
 cd TollPlaza-Vehicle-Classification
 
